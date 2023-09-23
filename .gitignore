@@ -1,0 +1,7 @@
+.env
+__pycache__
+.vscode
+/env_name
+.ipynb_checkpoints
+.DS_Store
+simple.py
